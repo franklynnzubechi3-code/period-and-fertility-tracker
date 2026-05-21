@@ -1,0 +1,6 @@
+{
+  "name": "Period & Fertility Tracker",
+  "description": "A comprehensive, beautifully designed menstrual cycle and fertility tracker with personal AI-powered health insights and dual-mode calendar reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
